@@ -16,7 +16,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '摸鱼一时爽，',
-  HEO_HERO_TITLE_2: '与思维认知一直摸鱼一直爽！',
+  HEO_HERO_TITLE_2: '一直摸鱼一直爽！',
   HEO_HERO_TITLE_3: 'just bing rich could cure unhappiness',
   HEO_HERO_TITLE_4: '今日推荐',
   HEO_HERO_TITLE_5: '何以解忧，唯有暴富',
