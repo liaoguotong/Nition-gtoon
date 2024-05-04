@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到果多酱图社', url: 'https://blog.tangly1024.com' },
-    { title: '分享一切美好事物的小图社', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到ifree', url: 'https://blog.tangly1024.com' },
+    { title: '正义都能迟到 为什么上班不行', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,11 +15,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
+  HEO_HERO_TITLE_1: '摸鱼一时爽，',
+  HEO_HERO_TITLE_2: '与思维认知一直摸鱼一直爽！',
+  HEO_HERO_TITLE_3: 'just bing rich could cure unhappiness',
   HEO_HERO_TITLE_4: '今日推荐',
-  HEO_HERO_TITLE_5: '人生苦短，及时摸鱼',
+  HEO_HERO_TITLE_5: '何以解忧，唯有暴富',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
