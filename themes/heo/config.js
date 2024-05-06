@@ -20,12 +20,12 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'just bing rich could cure unhappiness',
   HEO_HERO_TITLE_4: '今日推荐',
   HEO_HERO_TITLE_5: '何以解忧，唯有暴富',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://mp.weixin.qq.com/s/C9XvZYeOoiA-IaJrFb3y4g',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '摸鱼头像', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '摸鱼壁纸', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '闲时手册', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '摸鱼', url: '/tag/摸鱼' },
+  HEO_HERO_CATEGORY_2: { title: '游戏', url: '/tag/游戏' },
+  HEO_HERO_CATEGORY_3: { title: '效率', url: '/tag/效率' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -36,13 +36,13 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 专修摸鱼与羊毛',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
+    '📷 沉迷于表情壁纸',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://mp.weixin.qq.com/s/C9XvZYeOoiA-IaJrFb3y4g', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
